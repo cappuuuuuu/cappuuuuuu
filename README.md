@@ -1,4 +1,4 @@
-### Hi there, I like to drink cappuccino 👋
+### Hi there 👋, I love cappuccino, how about you ?
 
 <!--
 **cappuuuuuu/cappuuuuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
