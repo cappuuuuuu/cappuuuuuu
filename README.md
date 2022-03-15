@@ -3,8 +3,11 @@
 <img src="https://readme-jokes.vercel.app/api?bgColor=%23000&qColor=%237a65ff&aColor=%23f7c15e&borderColor=%23fff">
 
 ### Langauges
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5&logoColor=ddc508)
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/iendeavor?tab=repositories&q=&type=source&language=javascript)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3&logoColor=ddc508)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
 
 ### GitHub Stats Card
 
