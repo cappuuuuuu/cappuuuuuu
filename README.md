@@ -5,7 +5,7 @@
 
 ### GitHub Stats Card
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cappuuuuuu)](https://github.com/cappuuuuuu/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cappuuuuuu&show_icons=true&theme=onedark)](https://github.com/cappuuuuuu/github-readme-stats)
 
 ### Langauges
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5&logoColor=ddc508)
